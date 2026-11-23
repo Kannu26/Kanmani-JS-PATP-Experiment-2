@@ -1,4 +1,3 @@
-# Kanmani-JS-PATP-Experiment-2
 # Experiment-2-Data-Visualization-Using-Matplotlib-and-Seaborn
 To visualize data using Matplotlib and Seaborn libraries.
 # Experiment 2: Data Visualization Using Matplotlib and Seaborn
